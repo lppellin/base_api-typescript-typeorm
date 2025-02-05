@@ -38,11 +38,11 @@ Este é um projeto template para APIs, construído com TypeScript e TypeORM.
 
 ## Estrutura do Projeto
 
-- [src](http://_vscodecontentref_/2): Diretório principal.
+- `src`: Diretório principal.
   - `controllers/`: Controladores da aplicação.
   - `entity/`: Entidades do TypeORM.
   - `middlewares/`: Middlewares da aplicação.
   - `migration/`: Migrações do banco de dados.
   - `routes/`: Rotas da aplicação.
-  - [data-source.ts](http://_vscodecontentref_/3): Configuração do banco de dados do TypeORM.
-  - [index.ts](http://_vscodecontentref_/4): Arquivo principal que inicializa o servidor.
+  - `data-source.ts`: Configuração do banco de dados do TypeORM.
+  - `index.ts`: Arquivo principal que inicializa o servidor.
